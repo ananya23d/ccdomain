@@ -1,6 +1,6 @@
-# AI Powered Call Center Intelligence Accelerator
+# GSLab GAVS AI Powered Call Center Copilot
 
-The Call Center Intelligence Accelerator drives huge cost saving in call center operations while improving call center efficiency & customer satisfaction.
+The Call Center Copilot drives huge cost saving in call center operations while improving call center efficiency & customer satisfaction.
 
 It uses Azure Speech, Azure Language and Azure OpenAI (GPT-3) services to analyze call center transcrips, extract and redact personally identifiable information (PII), summarize the transcription, and provides rich business insights that could be used in real-time. It delivers deeper business insights for managers and enables them to evaluate call center performance far more efficiently and effectively in real-time and batch scenarios. Data insight on customer sentiment, topic analysis, and other valuable call attributes are served up in a user-friendly visual dashboard in Power BI.
 
